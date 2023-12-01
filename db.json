@@ -190,6 +190,13 @@
       "utilisateur": "Anthony",
       "commentaire": "Bien",
       "id": 21
+    },
+    {
+      "pieceId": 2,
+      "utilisateur": "Anthony",
+      "commentaire": "Très bien",
+      "nbEtoiles": "5",
+      "id": 22
     }
   ]
 }
