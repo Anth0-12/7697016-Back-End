@@ -184,33 +184,6 @@
       "utilisateur": "Hugo Block",
       "commentaire": "Sint quidem quia ipsam quae.",
       "nbEtoiles": 5
-    },
-    {
-      "pieceId": 1,
-      "utilisateur": "Anthony",
-      "commentaire": "Bien",
-      "id": 21
-    },
-    {
-      "pieceId": 2,
-      "utilisateur": "Anthony",
-      "commentaire": "Très bien",
-      "nbEtoiles": "5",
-      "id": 22
-    },
-    {
-      "pieceId": 2,
-      "utilisateur": "Anthony",
-      "commentaire": "Bien",
-      "nbEtoiles": 2,
-      "id": 23
-    },
-    {
-      "pieceId": 4,
-      "utilisateur": "Anthony",
-      "commentaire": "Bien",
-      "nbEtoiles": 3,
-      "id": 24
     }
   ]
 }
